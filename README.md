@@ -1,2 +1,2 @@
 # banking-sales-analytics
-proyecto de banking analytics
+SQL Data Analytics Portfolio Project – Banking Sales Analysis
